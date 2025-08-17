@@ -2,7 +2,7 @@
 A simple command line tool for encrypting/decrypting text using classical ciphers
 
 ## Authors
-Thomas Latham, Ben Morgan, Mark Slater, Matt Williams, Luke Kreczko
+Mark Slater
 
 ## Source code layout
 ```
