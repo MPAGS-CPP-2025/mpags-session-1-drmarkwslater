@@ -16,3 +16,6 @@ Mark Slater
 Please see the file [`LICENSE`](LICENSE) for full details.
 
 ## Documentation
+
+## License
+License info is included in the contained LICENSE file
